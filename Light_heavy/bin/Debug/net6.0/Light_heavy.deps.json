@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Light_heavy/1.0.0": {
+        "runtime": {
+          "Light_heavy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Light_heavy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

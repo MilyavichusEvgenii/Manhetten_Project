@@ -10,65 +10,65 @@
 *.userosscache
 *.sln.docstates
 
-# User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
+# Пользовательские файлы (MonoDevelop / Xamarin Studio)
+*.пользовательские настройки
 
-# Mono auto generated files
+# Автоматически генерируемые файлы Mono
 mono_crash.*
 
-# Build results
-[Dd]ebug/
+# Результаты сборки
+[Dd] ошибка/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
 x64/
 x86/
 [Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
+[Aa][Rr][Мм]/
 [Aa][Rr][Mm]64/
-bld/
-[Bb]in/
+блд/
+[Bb] в/
 [Oo]bj/
 [Ll]og/
-[Ll]ogs/
+[Ll] ogs/
 
-# Visual Studio 2015/2017 cache/options directory
+# Visual Studio 2015/2017 каталог кэша / параметров
 .vs/
-# Uncomment if you have tasks that create the project's static files in wwwroot
+# Раскомментируйте, если у вас есть задачи, которые создают статические файлы проекта в wwwroot
 #wwwroot/
 
-# Visual Studio 2017 auto generated files
-Generated\ Files/
+# Автоматически генерируемые файлы Visual Studio 2017
+Файлы\ Сгенерированные/
 
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
+# MSTest результаты тестирования
+[Tt] есть [Rr] результат */
+[Bb] uild[Ll] og.*
 
 # NUnit
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
 
-# Build Results of an ATL Project
+# Результаты сборки проекта ATL
 [Dd]ebugPS/
 [Rr]eleasePS/
 dlldata.c
 
-# Benchmark Results
-BenchmarkDotNet.Artifacts/
+# Результаты тестирования
+Бенчмаркдотнет.Артефакты/
 
 # .NET Core
 project.lock.json
 project.fragment.lock.json
-artifacts/
+артефакты/
 
-# ASP.NET Scaffolding
+# ASP.NET Строительные леса
 ScaffoldingReadMe.txt
 
 # StyleCop
 StyleCopReport.xml
 
-# Files built by Visual Studio
+# Файлы, созданные Visual Studio
 *_i.c
 *_p.c
 *_h.h
@@ -93,62 +93,62 @@ StyleCopReport.xml
 *.tlog
 *.vspscc
 *.vssscc
-.builds
+.сборки
 *.pidb
 *.svclog
 *.scc
 
-# Chutzpah Test files
+# Тестовые файлы Chutzpah
 _Chutzpah*
 
-# Visual C++ cache files
+# Файлы кэша Visual C ++
 ipch/
-*.aps
+*.точки доступа
 *.ncb
 *.opendb
 *.opensdf
 *.sdf
-*.cachefile
+*.файл кэша
 *.VC.db
 *.VC.VC.opendb
 
-# Visual Studio profiler
+# Профилировщик Visual Studio
 *.psess
 *.vsp
 *.vspx
 *.sap
 
-# Visual Studio Trace Files
+# Файлы трассировки Visual Studio
 *.e2e
 
-# TFS 2012 Local Workspace
-$tf/
+# Локальное рабочее пространство TFS 2012
+$ tf/
 
-# Guidance Automation Toolkit
+# Инструментарий автоматизации руководства
 *.gpState
 
-# ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
+# ReSharper - это надстройка для программирования .NET
+*_ReSharper/
+.*[Rr] e[Ss]харпер
 *.DotSettings.user
 
-# TeamCity is a build add-in
+# TeamCity - это надстройка для сборки
 _TeamCity*
 
-# DotCover is a Code Coverage Tool
+# dotCover - это инструмент для покрытия кода
 *.dotCover
 
-# AxoCover is a Code Coverage Tool
+# AxoCover - это инструмент для покрытия кода
 .axoCover/*
-!.axoCover/settings.json
+.axoCover!/settings.json
 
-# Coverlet is a free, cross platform Code Coverage Tool
-coverage*.json
-coverage*.xml
-coverage*.info
+# Coverlet - это бесплатный кроссплатформенный инструмент для покрытия кода
+покрытие * .json
+покрытие * .xml
+охват *.info
 
-# Visual Studio code coverage results
-*.coverage
+# Результаты покрытия кода Visual Studio
+*.покрытие
 *.coveragexml
 
 # NCrunch
@@ -251,7 +251,7 @@ orleans.codegen.cs
 # RIA/Проекты Silverlight
 Сгенерированный код/
 
-# Backup & report files from converting an old project file
+# Резервное копирование и создание отчетов о файлах в результате преобразования старого файла проекта
 # к более новой версии Visual Studio. Файлы резервных копий не нужны,
 # потому что у нас есть git ;-)
 _ улучшение_порт_файлов/
@@ -288,10 +288,10 @@ node_modules/
 # Журнал сборки Visual Studio 6
 *.plg
 
-# Visual Studio 6 workspace options file
+# Файл параметров рабочей области Visual Studio 6
 *.opt
 
-# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+# Автоматически сгенерированный файл рабочей области Visual Studio 6 (содержит, какие файлы были открыты и т.д.)
 *.vbw
 
 # Автоматически сгенерированный файл проекта Visual Studio 6 (содержит, какие файлы были открыты и т.д.)
@@ -328,8 +328,8 @@ __pycache__/
 *.pyc
 
 # Cake - раскомментируйте, если вы его используете
-# tools/**
-# !tools/packages.config
+# инструменты/**
+# !инструменты / пакеты.config
 
 # Студия вкладок
 *.tss
